@@ -4,4 +4,30 @@ Note :
 1. need python installed in your system
 2. need beautiful soup modules (http://www.crummy.com/software/BeautifulSoup/)
 
+example Usage :
+Amanda$ python kereta.py 20111206 YK GMR
+result : 
+Jadwal Kereta Api Tanggal :  20111206
+Dari :  YK | Tujuan :  GMR
+
+kereta :  BIMA
+kelas :  Eksekutif | harga tiket :  285.000
+jam berangkat 22:02 | jam tiba 05:53
+
+kereta :  TAKSAKA PAGI
+kelas :  Eksekutif | harga tiket :  235.000
+jam berangkat 10:00 | jam tiba 17:31
+
+kereta :  TAKSAKA MALAM
+kelas :  Eksekutif | harga tiket :  235.000
+jam berangkat 20:00 | jam tiba 04:31
+
+kereta :  ARGO LAWU
+kelas :  Eksekutif | harga tiket :  255.000
+jam berangkat 08:56 | jam tiba 16:16
+
+kereta :  ARGO DWIPANGGA
+kelas :  Eksekutif | harga tiket :  255.000
+jam berangkat 20:56 | jam tiba 04:46
+
 this script is copyleft :D 
